@@ -10,7 +10,7 @@
 
 ---
 
-## 入门
+## 入门起步
 **第1讲：Hello Cairo**：【[Code](https://github.com/WTFAcademy/WTF-Cairo/blob/main/01_HelloCairo)】｜【[教程](https://github.com/WTFAcademy/WTF-Cairo/blob/main/01_HelloCairo/readme.md)】
 
 **第2讲：Primitive Types 基础数据类型**：【[Code](https://github.com/WTFAcademy/WTF-Cairo/blob/main/02_PrimitiveTypes)】｜【[教程](https://github.com/WTFAcademy/WTF-Cairo/blob/main/02_PrimitiveTypes/readme.md)】
